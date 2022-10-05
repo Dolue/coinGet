@@ -1,0 +1,20 @@
+{
+  "name": "coinget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/coinget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "commander": "^9.4.1",
+    "configstore": "^6.0.0",
+    "inquirer": "^8.2.4",
+    "node-fetch": "^2.6.1"
+  }
+}

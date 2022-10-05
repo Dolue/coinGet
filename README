@@ -1,0 +1,1 @@
+ In this project we will build a CLI (command line interface) for a cryptocurrency price app. We will use Commander.js, Inquirer, configstore and some other modules.
